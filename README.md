@@ -1,4 +1,4 @@
-# Materials for the March 2017 meeting of Women Who Code Belfast
+# Code for March 2017 Meeting of 'Women Who Code Belfast'
 
 ## Overview
 
@@ -13,7 +13,7 @@ The steps to get everything up and running are as follows:
 5. Right-click on the project and open the 'Module Settings' 
 6. On the 'Dependencies' tab you will need to:
   * Specify a Java SDK which is present on your machine
-  * Delete the specified Scala SDK and install one of your own (via the green plus)
+  * Delete the specified Scala SDK and install one of your own (via the green plus). Note this frequently sits for several minutes depending on network speeds.
 7. On the 'Sources' tab make sure the version of Java is set to '1.8'
 8. You should now be able to build the project and run the 'Program' class in the package 'learning.fp.scala.demos'
 
